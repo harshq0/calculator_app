@@ -1,4 +1,5 @@
 # my_app
+![Screenshot_1702096706](https://github.com/harshq0/calculator_app/assets/153432255/5fad3b8f-47eb-4746-8141-9eef2a5d902a)
 
 A new Flutter project.
 
